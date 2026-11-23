@@ -47,6 +47,12 @@ Triangle areas are exact rationals; the score divides by the triangle's area sqr
 
 Suggested verifier change: decide containment exactly as above instead of in float64.
 
+## Lean 4 formalization
+
+`lean/` adds a Lean 4 proof of the containment failure, the one-ulp fix, and the exact minimum area, checked with
+`lake comparator --paranoid` (six kernels accept) and using only the `propext` axiom. See `lean/README.md`.
+The Python checks above are unchanged.
+
 ## Credit and notes
 
 Configuration: AlphaEvolve (Google DeepMind). This repo only checks it and proposes the one-ulp fix.

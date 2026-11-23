@@ -1,0 +1,6 @@
+name = "heil11"
+defaultTargets = ["Heil11"]
+
+[[lean_lib]]
+name = "Heil11"
+roots = ["Heil11.Defs", "Heil11.Data", "Heil11.Challenge", "Heil11.Solution"]

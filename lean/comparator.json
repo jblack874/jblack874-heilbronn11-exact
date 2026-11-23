@@ -1,0 +1,8 @@
+{
+  "challenge_module": "Heil11.Challenge",
+  "solution_module": "Heil11.Solution",
+  "theorem_names": ["Heil11.lengths", "Heil11.record_point8_outside", "Heil11.record_others_inside",
+                    "Heil11.fixed_vs_record", "Heil11.fixed_inside", "Heil11.fixed_min",
+                    "Heil11.fixed_min_attained", "Heil11.record_min"],
+  "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"]
+}

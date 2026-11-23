@@ -1,0 +1,10 @@
+'Heil11.lengths' does not depend on any axioms
+'Heil11.record_point8_outside' depends on axioms: [propext]
+'Heil11.record_others_inside' depends on axioms: [propext]
+'Heil11.fixed_vs_record' depends on axioms: [propext]
+'Heil11.fixed_inside' depends on axioms: [propext]
+'Heil11.fixed_min' depends on axioms: [propext]
+'Heil11.fixed_min_attained' depends on axioms: [propext]
+'Heil11.record_min' depends on axioms: [propext]
+657050122217598944293565567970240
+57

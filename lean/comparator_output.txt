@@ -1,0 +1,35 @@
+Resolving dependencies
+Building Heil11.Challenge
+⚠ [6/7] Replayed Heil11.Challenge
+warning: Heil11/Challenge.lean:16:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:19:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:23:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:27:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:32:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:35:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:39:8: declaration uses `sorry`
+warning: Heil11/Challenge.lean:42:8: declaration uses `sorry`
+Build completed successfully (7 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, Heil11.lengths, Heil11.record_point8_outside, Heil11.record_others_inside, Heil11.fixed_vs_record, Heil11.fixed_inside, Heil11.fixed_min, Heil11.fixed_min_attained, Heil11.record_min, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Heil11.Challenge
+Building Heil11.Solution
+Build completed successfully (7 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, Heil11.lengths, Heil11.record_point8_outside, Heil11.record_others_inside, Heil11.fixed_vs_record, Heil11.fixed_inside, Heil11.fixed_min, Heil11.fixed_min_attained, Heil11.record_min, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from Heil11.Solution
+Running Lean paranoid kernel on solution
+Lean paranoid kernel accepts the solution
+Running lean4lean kernel on solution
+checked 622 declarations
+lean4lean kernel accepts the solution
+Running nanoda kernel on solution
+nanoda kernel accepts the solution
+Running con-leche kernel on solution
+con-leche: 1 inductive blocks modelled in-process: Lean.Syntax (30 generated records, checked by the fold as declarations and not counted as records of the file)
+con-leche: accepted 621 declarations (--verified)
+con-leche kernel accepts the solution
+Running con-ron kernel on solution
+con-ron: 1 inductive blocks modelled in-process: Lean.Syntax (30 generated records, checked by the fold as declarations and not counted as records of the file)
+con-ron: accepted 621 declarations (--verified)
+con-ron kernel accepts the solution
+Running Lean default kernel on solution
+Lean default kernel accepts the solution
+Your solution is okay!
+exit 0
