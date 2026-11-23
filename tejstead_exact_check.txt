@@ -1,0 +1,3 @@
+points 11 outside: []
+min 2*area (normalized) = 0.03652988988003022 36529889880030216424847127960782
+tejstead - AlphaEvolve(fixed, ours) = 8.757e-17

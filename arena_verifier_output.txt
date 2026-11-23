@@ -1,0 +1,2 @@
+arena verifier, record: 0.036529889880030156
+arena verifier, fixed:  0.036529889880030156
